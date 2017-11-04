@@ -20,6 +20,7 @@ endif
 
 let g:colors_name = "dracula"
 
+hi pythonSelf ctermfg=111 ctermbg=NONE cterm=NONE guifg=#87afff guibg=NONE gui=NONE
 hi Cursor ctermfg=17 ctermbg=231 cterm=NONE guifg=#282a36 guibg=#f8f8f0 gui=NONE
 hi Visual ctermfg=NONE ctermbg=241 cterm=NONE guifg=NONE guibg=#44475a gui=NONE
 hi CursorLine ctermbg=234 cterm=NONE guifg=NONE guibg=#44475a gui=NONE
