@@ -20,6 +20,7 @@ endif
 
 let g:colors_name = "dracula"
 
+hi phpSemicolonColor ctermfg=109 ctermbg=NONE cterm=NONE guifg=#87afaf guibg=NONE gui=NONE
 hi pythonSelf ctermfg=109 ctermbg=NONE cterm=NONE guifg=#87afaf guibg=NONE gui=NONE
 hi Cursor ctermfg=17 ctermbg=231 cterm=NONE guifg=#282a36 guibg=#f8f8f0 gui=NONE
 hi Visual ctermfg=NONE ctermbg=241 cterm=NONE guifg=NONE guibg=#44475a gui=NONE
